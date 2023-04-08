@@ -1,1 +1,0 @@
-nohup python -m torch.distributed.launch --master_port 12350 --nproc_per_node=1 main.py --exp_name test --attentions 16 --epochs 120 --dataset FGSC-23 --output_dir logs/test --novel_loss 0.5 > test.txt &

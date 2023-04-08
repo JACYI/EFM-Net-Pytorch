@@ -1,5 +1,15 @@
-# EFM-Net-Pytorch
+## This is the introduction of the code
 
-This is the implement by Pytorch for the article "EFM-Net: An Essential Feature Mining Network for Target Fine-Grained Classification in Optical Remote Sensing Images".
+### Before Training
+#### Install
+install the following package for your environment.
+```shell
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111
+```
 
-The code will be update soon.
+#### Download
+- download the pretrained model convnext-base and resnet-50
+- download the dataset from the following link:
+    - www.
+
+### 

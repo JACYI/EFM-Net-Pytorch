@@ -87,11 +87,21 @@ python -m torch.distributed.launch --master_port 12345 \
 
 
 
-### Citations
+### Citation
 
-Update soon.
+More details need to be added.
 
 ```
+@ARTICLE{10097708,
+  author={Yi, Yonghao and You, Yanan and Li, Chao and Zhou, Wenli},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={EFM-Net: An Essential Feature Mining Network for Target Fine-Grained Classification in Optical Remote Sensing Images}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3265669}
+}
 ```
 
 

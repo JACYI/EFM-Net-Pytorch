@@ -87,7 +87,7 @@ python -m torch.distributed.launch --master_port 12345 \
 
 
 
-### Citation
+## Citation
 
 More details need to be added.
 
@@ -106,7 +106,7 @@ More details need to be added.
 
 
 
-### Corresponding author information
+## Corresponding author information
 
 Yanan You, Beijing, China,
 
@@ -116,7 +116,7 @@ Email: youyanan@bupt.edu.cn
 
 
 
-### To do
+## To do
 
 1. Support more feature extraction models;
 2. Provide more interfaces for modifying parameters.

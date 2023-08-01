@@ -82,7 +82,7 @@ python -m torch.distributed.launch --master_port 12345 \
  --nproc_per_node=2 main.py \
  --exp_name test --attentions 16 \
  --epochs 120 --dataset FGSC-23 \
- --output-dir logs/test --novel-loss 0.5
+ --output_dir logs/test --novel_loss 0.5
 ```
 
 
